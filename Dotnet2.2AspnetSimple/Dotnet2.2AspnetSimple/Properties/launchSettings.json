@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "LOCAL": {
+      "commandName": "Project",
+      "commandLineArgs": "--urls http://0.0.0.0:5000",
+      "launchUrl": "http://localhost:5000/api/values"
+    }
+  }
+}
